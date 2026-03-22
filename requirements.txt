@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+llama-index
+openai
+python-dotenv
+pydantic
+httpx
+reportlab
